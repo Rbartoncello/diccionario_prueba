@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Diccionario"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Diccionario">
+				<Option output="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Diccionario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 Diccionario"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Diccionario/fast">
+				<Option output="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Diccionario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 Diccionario/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/diccionario.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/diccionario.h">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/edificio.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/edificio.h">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/edificios.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/edificios.h">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/edificios.txt">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/main.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/nodo.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/nodo.h">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/receta.cpp">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/receta.h">
+			<Option target="Diccionario"/>
+		</Unit>
+		<Unit filename="/home/rbartoncello/CLionProjects/Diccionario/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

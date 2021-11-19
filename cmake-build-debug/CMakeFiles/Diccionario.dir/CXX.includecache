@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rbartoncello/CLionProjects/Diccionario/constantes.h
+string
+-
+
+/home/rbartoncello/CLionProjects/Diccionario/diccionario.h
+nodo.h
+/home/rbartoncello/CLionProjects/Diccionario/nodo.h
+
+/home/rbartoncello/CLionProjects/Diccionario/edificio.h
+string
+-
+receta.h
+/home/rbartoncello/CLionProjects/Diccionario/receta.h
+
+/home/rbartoncello/CLionProjects/Diccionario/emojis.h
+string
+-
+
+/home/rbartoncello/CLionProjects/Diccionario/main.cpp
+iostream
+-
+fstream
+-
+diccionario.h
+/home/rbartoncello/CLionProjects/Diccionario/diccionario.h
+emojis.h
+/home/rbartoncello/CLionProjects/Diccionario/emojis.h
+constantes.h
+/home/rbartoncello/CLionProjects/Diccionario/constantes.h
+edificio.h
+/home/rbartoncello/CLionProjects/Diccionario/edificio.h
+
+/home/rbartoncello/CLionProjects/Diccionario/nodo.h
+edificio.h
+/home/rbartoncello/CLionProjects/Diccionario/edificio.h
+
+/home/rbartoncello/CLionProjects/Diccionario/receta.h
+

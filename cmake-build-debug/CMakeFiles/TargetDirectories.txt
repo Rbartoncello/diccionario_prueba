@@ -1,0 +1,3 @@
+/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rbartoncello/CLionProjects/Diccionario/cmake-build-debug/CMakeFiles/Diccionario.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Diccionario.dir/main.cpp.o CMakeFiles/Diccionario.dir/edificio.cpp.o CMakeFiles/Diccionario.dir/diccionario.cpp.o CMakeFiles/Diccionario.dir/nodo.cpp.o CMakeFiles/Diccionario.dir/edificios.cpp.o CMakeFiles/Diccionario.dir/receta.cpp.o -o Diccionario 
